@@ -65,7 +65,7 @@ source $script_dir/firmware.sh
 source $script_dir/functions.sh
 
 #set working dir
-cd /tmp
+cd /dev/shm
 
 #do setup stuff
 prelim_setup
